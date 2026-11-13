@@ -2,4 +2,4 @@
 
 #how to setup this ?
 
-#how to setup this ?
+#how to setup this project ?
